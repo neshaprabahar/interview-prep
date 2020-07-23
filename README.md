@@ -1,9 +1,9 @@
-# Solutions to common interview questions
+# Interview Prep
 Language: **JAVA**
 
 ## Structure
 
-### Solutions to questions from a Interview Prep Course
+### Interview Prep Course
 #### Week 1
  * isSubString
  * KMP
@@ -12,7 +12,7 @@ Language: **JAVA**
  * Two Sum
 
 
-### LeetCode Questions 
+### LeetCode 
 #### Easy
  *  ReverseString
 
